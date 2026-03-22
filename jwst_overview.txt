@@ -1,0 +1,23 @@
+The James Webb Space Telescope (JWST) is a large infrared telescope with a 6.5-meter primary mirror.
+It was launched on December 25, 2021, and began science operations in July 2022.
+JWST is a collaboration between NASA, the European Space Agency (ESA), and the Canadian Space Agency (CSA).
+
+The telescope orbits the Sun at the second Lagrange point (L2), approximately 1.5 million kilometres from Earth.
+Unlike the Hubble Space Telescope, which orbits Earth in low Earth orbit, JWST's L2 position allows it to
+observe the universe in infrared light with minimal interference from Earth, Moon, and Sun.
+
+JWST's four scientific goals are:
+1. Search for the first galaxies or luminous objects formed after the Big Bang.
+2. Determine how galaxies evolved from their formation until now.
+3. Observe the formation of stars from the first stages to the formation of planetary systems.
+4. Measure the physical and chemical properties of planetary systems and investigate the potential for life.
+
+The telescope carries four primary instruments: NIRCam (Near Infrared Camera), NIRSpec (Near Infrared Spectrograph),
+MIRI (Mid-Infrared Instrument), and FGS/NIRISS (Fine Guidance Sensor / Near InfraRed Imager and Slitless Spectrograph).
+
+The five-layer sunshield is the size of a tennis court (21m x 14m) and keeps the instruments at around -233°C (40 K),
+which is essential for detecting faint infrared signals. The primary mirror consists of 18 hexagonal gold-coated
+beryllium segments that folded for launch and unfolded in space over a two-week deployment sequence.
+
+In its first year of operations, JWST released stunning images of the Carina Nebula, Stephan's Quintet,
+the Southern Ring Nebula, and the deepest infrared image of the universe ever taken (SMACS 0723).
